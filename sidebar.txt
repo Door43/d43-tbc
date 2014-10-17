@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tbc:home|Door43 (tbc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tbc|d43-tbc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tbc/archive/master.zip|d43-tbc.zip]]
+
+**Recent Changes**
+{{changes>ns = tbc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tbc|Ethnologue data]]
+
